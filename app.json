@@ -1,0 +1,9 @@
+{
+  "name": "fresh",
+  "displayName": "Crash Gambling Game",
+  
+  "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-4487344159300856~8858329301"
+    }
+  
+}
